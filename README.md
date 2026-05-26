@@ -2,8 +2,8 @@
 
 > Feeding attackers synthetic data so convincing, they'll never know it's fake.
 
-COMSATS University Islamabad — AI Semester Project
-**Saman** (FA23-BCE-099) · **Noor ul Huda** (FA23-BCE-089)
+COMSATS University Islamabad ( AI Semester Project)
+**Saman Kalsoom** (FA23-BCE-099) 
 
 ---
 
