@@ -1,0 +1,7 @@
+enron_clean (1).csv
+faker_credentials (6).csv
+ctgan_credentials.csv
+__pycache__/
+*.pyc
+gpt2-enron/
+enron_clean (1).csv
